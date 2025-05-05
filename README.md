@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋🦇
+
+My name is Yusuf, and I am from San Diego. I love bulding.
+
 
 <!--
 **yusufcku/yusufcku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
