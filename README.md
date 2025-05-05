@@ -1,6 +1,5 @@
 ## Hi there 👋🦇
 
-My name is Yusuf, and I am from San Diego. I love bulding.
 
 
 <!--
