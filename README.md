@@ -1,4 +1,5 @@
-## Hi there 👋🦇
+## Hi there 🦇
+Im building where money, fun, and self improvment intersect 🤫
 
 
 
