@@ -1,8 +1,5 @@
 ## Hi there 🦇
-Im building where money, fun, and self improvment intersect 🤫
-
-
-
+Im building where money, fun, and self improvement intersect 🤫
 <!--
 **yusufcku/yusufcku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
