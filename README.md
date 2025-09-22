@@ -1,6 +1,7 @@
 # watching and learning 🦇
 
 - cs at cal poly slo.
-- 18 years old.
+- java, javascript, typescript, swift, react, next.js, tailwind.
 - learning AWS.
+  
 
